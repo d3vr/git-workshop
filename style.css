@@ -9,5 +9,11 @@ body {
 #wrapper {
 	background: #fff;
 	border-radius:5px;
-	margin:20px;
+	margin:32px;
+	padding: 22px;
+	box-shadow:0 0 10px rgba(0,0,0,0.5);
+
+}
+#wrapper h1 {
+	margin-bottom: 10px;
 }
